@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "categoryId": 1001,
+      "name": "Classics"
+    },
+    {
+      "categoryId": 1002,
+      "name": "Fantasy"
+    },
+    {
+      "categoryId": 1003,
+      "name": "Mystery"
+    },
+    {
+      "categoryId": 1004,
+      "name": "Romance"
+    },
+    {
+      "categoryId": 1005,
+      "name": "Science Fiction"
+    },
+    {
+      "categoryId": 1006,
+      "name": "Cooking"
+    },
+    {
+      "categoryId": 1007,
+      "name": "Kids"
+    },
+    {
+      "categoryId": 1008,
+      "name": "Craft"
+    },
+    {
+      "categoryId": 1009,
+      "name": "Pets"
+    },
+    {
+      "categoryId": 1010,
+      "name": "Movies"
+    }
+  ],
+  "books": [
+    {
+      "bookId": 1001,
+      "title": "Never Lie",
+      "author": "Freida McFadden",
+      "price": 1271,
+      "isPublic": true,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1002,
+      "title": "Exiles",
+      "author": "Jane Harper",
+      "price": 2010,
+      "isPublic": false,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1003,
+      "title": "Murder Book",
+      "author": "Thomas Perry",
+      "price": 1945,
+      "isPublic": false,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1004,
+      "title": "London Rules",
+      "author": "Mick Herron",
+      "price": 1154,
+      "isPublic": false,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1005,
+      "title": "S.",
+      "author": "J J Abrams",
+      "price": 1944,
+      "isPublic": true,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1006,
+      "title": "Real Tigers",
+      "author": "Mick Herron",
+      "price": 1019,
+      "isPublic": false,
+      "categoryId": 1003
+    }
+  ]
+}
