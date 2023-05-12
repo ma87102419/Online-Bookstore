@@ -8,15 +8,15 @@ Browse the extensive catalog of books, conveniently organized by category, and o
 
 You can build the online bookstore website on your local computer:
 
-# Create Database Schemas
+### Create Database Schemas
 
 After setting up mysql in your local computer, create database schemas with `bookstore-tables.mysql`
 
-# Insert data
+### Insert data
 
 Insert data by executing `./server/src/main/db/bookstore-data.mysql` in the console
 
-# Run Application
+### Run Application
 
 Run the application with Tomcat, the online bookstore website can be accessed at `http://localhost:8080/KaiJoBookstore/`.
 
